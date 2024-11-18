@@ -93,9 +93,14 @@ src/main/java/org/example/springmvc
 ## Screenshots
 
 - **Login Page**
+<img src="IMG/login.png">
 - **Patient List**
+<img src="IMG/listPatient.png">
 - **Add/Edit Patient Form**
+<img src="IMG/add.png">
+<img src="IMG/edit.png">
 - **Access Denied Page**
+<img src="IMG/notAuth.png">
 
 ## License
 
